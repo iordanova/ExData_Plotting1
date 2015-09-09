@@ -1,3 +1,23 @@
+##Content
+This folder contains four code files which reproduce 
+the plots from the project, see below.
+
+The R code files assume that the input data file is in the workind directory:
+
+* plot1.R
+* plot2.R
+* plot3.R
+* plot4.R
+
+Figures in png format:
+
+* plot1.png
+* plot2.png
+* plot3.png
+* plot4.png
+
+
+___________________________________________________________
 ## Introduction
 
 This assignment uses data from
